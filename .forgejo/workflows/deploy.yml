@@ -45,7 +45,7 @@ jobs:
 
           rm -rf pages-worktree/*
 
-          cp -r public/* pages-worktree/
+          cp -r public/. pages-worktree/
           touch pages-worktree/.nojekyll
 
           cd pages-worktree
