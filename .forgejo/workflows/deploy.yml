@@ -30,7 +30,7 @@ jobs:
             --minify \
             --gc \
             --enableGitInfo \
-            --baseURL "https://jershbytes.codeberg.page/"
+            --baseURL "https://blog.rossjm.dev/"
 
       - name: Deploy to pages branch
         run: |
