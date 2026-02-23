@@ -8,5 +8,5 @@ init-theme:
 
 # Start the embedded web server
 serve:
-  hugo serve
+  hugo server --disableFastRender
   

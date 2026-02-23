@@ -80,7 +80,7 @@ params:
   profileMode:
     enabled: true
     title: Hi I'm Jersh 👋
-    imageUrl: "https://avatars.githubusercontent.com/u/35482886?v=4"
+    imageUrl: "/img/author.jpg"
     imageTitle: my image
     # imageWidth: 120
     # imageHeight: 120
@@ -116,11 +116,11 @@ params:
 
   assets:
     disableHLJS: true
-    favicon: "/img/favicon.ico"
-    favicon16x16: "/img/favicon.ico"
-    favicon32x32: "/img/favicon.ico"
-    apple_touch_icon: "/img/apple-touch-icon.png"
-    safari_pinned_tab: "/img/favicon.ico"
+    favicon: "favicon-96x96.png"
+    favicon16x16: "favicon-96x96.png"
+    favicon32x32: "favicon-96x96.png"
+    apple_touch_icon: "favicon-96x96.png"
+    safari_pinned_tab: "favicon-96x96.png"
 
   # cover:
   #     hidden: true # hide everywhere but not in structured data
