@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://jershbytes.codeberg.page/sitemap.xml

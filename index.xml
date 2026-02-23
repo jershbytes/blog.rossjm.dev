@@ -1,34 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ramblings of Jersh</title>
     <link>https://jershbytes.codeberg.page/</link>
     <description>Recent content on Ramblings of Jersh</description>
-    <generator>Hugo</generator>
+    <image>
+      <title>Ramblings of Jersh</title>
+      <url>https://jershbytes.codeberg.page/images/papermod-cover.png</url>
+      <link>https://jershbytes.codeberg.page/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
-    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
-    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Mon, 23 Feb 2026 15:10:45 -0500</lastBuildDate>
     <atom:link href="https://jershbytes.codeberg.page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crafting My Art 🖼️</title>
       <link>https://jershbytes.codeberg.page/blog/2024-04-19-crafting-my-art/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://jershbytes.codeberg.page/blog/2024-04-19-crafting-my-art/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Welcome Everyone&lt;/strong&gt;, Today I decided to write another blog post after having a conversation with a friend. I asked him what should the topic be today and whether it should be a blog or more of a tutorial. He suggested a tutorial so I decided why not write on how I set up my Dev Environment. So read along while I explain how I set this up and why I chose said apps.&lt;/p&gt;</description>
+      <description>A Guide To My Dev Environment.</description>
     </item>
     <item>
       <title>Building My Digital Playground 🛝</title>
       <link>https://jershbytes.codeberg.page/blog/2024-04-17-building-my-digital-playground/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://jershbytes.codeberg.page/blog/2024-04-17-building-my-digital-playground/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to Post Number 2. To start, around 2015, I got the itch to do a little more than just build computers and repair them. Don&amp;rsquo;t get me wrong, I still do that, and it is still very much a thing I tend to enjoy, but finding the right people to build for or someone with the budget can be hard at times. I started to learn &lt;a href=&#34;https://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; around this time and was very fascinated with how it worked. It was a little hard at first since the person who showed me. It showed me exclusively how to use it via CLI and not a GUI. After getting the hang of how Linux worked, I bought a server from that same friend, which started the HomeLab journey and the transition to the first part of the lab.&lt;/p&gt;</description>
+      <description>Exploring the World of Homelabs!</description>
     </item>
     <item>
       <title>How I Safeguard My Digital Life 🕵️‍♀️</title>
       <link>https://jershbytes.codeberg.page/blog/2024-04-12-how-i-safeguard-my-digital-life/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://jershbytes.codeberg.page/blog/2024-04-12-how-i-safeguard-my-digital-life/</guid>
-      <description>&lt;h1 id=&#34;why&#34;&gt;Why&lt;/h1&gt;&#xA;&lt;p&gt;Around 2019 I found myself going down a rabbit hole of software after listening to some Podcasts. Mainly &lt;a href=&#34;https://darknetdiaries.com/&#34;&gt;Darknet Diaries&lt;/a&gt;, &lt;a href=&#34;https://tuxdigital.com/podcasts/destination-linux/&#34;&gt;Destination Linux&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;proton&#34;&gt;Proton&lt;/h2&gt;&#xA;&lt;p&gt;Proton is like if you want to use Google, but also tell your Government. &lt;strong&gt;NOT TODAY SATAN&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been using them since about 2019 as well going on 5 years and have invested close to $2000 over the years on the sub alone. The reason for the high price is I am locked in on the Visionary Plan.&lt;/p&gt;</description>
+      <description>Exploring My Favorite Privacy Apps.</description>
     </item>
     <item>
       <title></title>
@@ -42,7 +47,31 @@
       <link>https://jershbytes.codeberg.page/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jershbytes.codeberg.page/resume/</guid>
-      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css&#34;&gt;&#xA;&lt;!-- Header --&gt;&#xA;&lt;h1 align=&#34;center&#34;&gt; Joshua Ross &lt;/h1&gt;&#xA;&lt;div align=&#34;center&#34;&gt; &lt;i&gt; Information Technology Analyst | Enhancing Efficiency Through Technology &lt;/i&gt; &lt;/div&gt;&#xA;&lt;h6 align=&#34;center&#34;&gt;&#xA;  &lt;a href=&#34;mailto:important@rossjm.net&#34;&gt;&lt;i class=&#34;fa fa-envelope&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Email&lt;/a&gt; &amp;nbsp;&#xA;  &lt;a href=&#34;https://codeberg.org/JershBytes&#34;&gt;&lt;i class=&#34;fa-brands fa-git&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Codeberg&lt;/a&gt; &amp;nbsp;&#xA;  &lt;a href=&#34;https://linkedin.com/in/joshuamalcom&#34;&gt;&lt;i class=&#34;fa-brands fa-linkedin&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; LinkedIn&lt;/a&gt;&#xA;&lt;/h6&gt;&#xA;&lt;!-- Main Section --&gt;&#xA;&lt;h2 id=&#34;school_satchel-education&#34;&gt;&amp;#x1f392; Education&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;AAS. Computer Networking&lt;/strong&gt; &lt;br&gt;&#xA;Career Quest Learning Centers |&#xA;Lansing, MI &lt;br&gt;&#xA;&lt;em&gt;09/2019 - 03/2021&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;briefcase-experience&#34;&gt;&amp;#x1f4bc; Experience&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Information Technology Programmer Analyst 11&lt;/strong&gt; ~ State of Michigan &lt;br&gt;&#xA;&lt;em&gt;05/2023 - Present&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Analyze, develop, test, configure, implement, and maintain a variety of hardware and application platforms.&lt;/li&gt;&#xA;&lt;li&gt;Works with other teams to deploy servers based on their needs.&lt;/li&gt;&#xA;&lt;li&gt;Provide support for a variety of third party software.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Datacenter Operations Tech II&lt;/strong&gt; ~ Liquid Web &lt;br&gt;&#xA;&lt;em&gt;09/2021 - 05/2023&lt;/em&gt;&lt;/p&gt;</description>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css&#34;&gt;
+&lt;!-- Header --&gt;
+&lt;h1 align=&#34;center&#34;&gt; Joshua Ross &lt;/h1&gt;
+&lt;div align=&#34;center&#34;&gt; &lt;i&gt; Information Technology Analyst | Enhancing Efficiency Through Technology &lt;/i&gt; &lt;/div&gt;
+&lt;h6 align=&#34;center&#34;&gt;
+  &lt;a href=&#34;mailto:important@rossjm.net&#34;&gt;&lt;i class=&#34;fa fa-envelope&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Email&lt;/a&gt; &amp;nbsp;
+  &lt;a href=&#34;https://codeberg.org/JershBytes&#34;&gt;&lt;i class=&#34;fa-brands fa-git&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Codeberg&lt;/a&gt; &amp;nbsp;
+  &lt;a href=&#34;https://linkedin.com/in/joshuamalcom&#34;&gt;&lt;i class=&#34;fa-brands fa-linkedin&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; LinkedIn&lt;/a&gt;
+&lt;/h6&gt;
+&lt;!-- Main Section --&gt;
+&lt;h2 id=&#34;school_satchel-education&#34;&gt;&amp;#x1f392; Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;AAS. Computer Networking&lt;/strong&gt; &lt;br&gt;
+Career Quest Learning Centers |
+Lansing, MI &lt;br&gt;
+&lt;em&gt;09/2019 - 03/2021&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;briefcase-experience&#34;&gt;&amp;#x1f4bc; Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Information Technology Programmer Analyst 11&lt;/strong&gt; ~ State of Michigan &lt;br&gt;
+&lt;em&gt;05/2023 - Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyze, develop, test, configure, implement, and maintain a variety of hardware and application platforms.&lt;/li&gt;
+&lt;li&gt;Works with other teams to deploy servers based on their needs.&lt;/li&gt;
+&lt;li&gt;Provide support for a variety of third party software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Datacenter Operations Tech II&lt;/strong&gt; ~ Liquid Web &lt;br&gt;
+&lt;em&gt;09/2021 - 05/2023&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
