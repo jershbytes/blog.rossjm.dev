@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ramblings of Jersh</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ramblings of Jersh</description>
+    <image>
+      <title>Ramblings of Jersh</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.156.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crafting My Art 🖼️</title>
+      <link>http://localhost:1313/blog/2024-04-19-crafting-my-art/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-04-19-crafting-my-art/</guid>
+      <description>A Guide To My Dev Environment.</description>
+    </item>
+    <item>
+      <title>Building My Digital Playground 🛝</title>
+      <link>http://localhost:1313/blog/2024-04-17-building-my-digital-playground/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-04-17-building-my-digital-playground/</guid>
+      <description>Exploring the World of Homelabs!</description>
+    </item>
+    <item>
+      <title>How I Safeguard My Digital Life 🕵️‍♀️</title>
+      <link>http://localhost:1313/blog/2024-04-12-how-i-safeguard-my-digital-life/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2024-04-12-how-i-safeguard-my-digital-life/</guid>
+      <description>Exploring My Favorite Privacy Apps.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about-me/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a self-taught automation enthusiast passionate about homelab infrastructure, configuration management, and infrastructure-as-code. I work at the intersection of technology and public service, constantly automating and optimizing workflows to make complex systems simple.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css&#34;&gt;
+&lt;!-- Header --&gt;
+&lt;h1 align=&#34;center&#34;&gt; Joshua Ross &lt;/h1&gt;
+&lt;div align=&#34;center&#34;&gt; &lt;i&gt; Information Technology Analyst | Enhancing Efficiency Through Technology &lt;/i&gt; &lt;/div&gt;
+&lt;h6 align=&#34;center&#34;&gt;
+  &lt;a href=&#34;mailto:important@rossjm.net&#34;&gt;&lt;i class=&#34;fa fa-envelope&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Email&lt;/a&gt; &amp;nbsp;
+  &lt;a href=&#34;https://codeberg.org/JershBytes&#34;&gt;&lt;i class=&#34;fa-brands fa-git&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Codeberg&lt;/a&gt; &amp;nbsp;
+  &lt;a href=&#34;https://linkedin.com/in/joshuamalcom&#34;&gt;&lt;i class=&#34;fa-brands fa-linkedin&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; LinkedIn&lt;/a&gt;
+&lt;/h6&gt;
+&lt;!-- Main Section --&gt;
+&lt;h2 id=&#34;school_satchel-education&#34;&gt;&amp;#x1f392; Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;AAS. Computer Networking&lt;/strong&gt; &lt;br&gt;
+Career Quest Learning Centers |
+Lansing, MI &lt;br&gt;
+&lt;em&gt;09/2019 - 03/2021&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;briefcase-experience&#34;&gt;&amp;#x1f4bc; Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Information Technology Programmer Analyst 11&lt;/strong&gt; ~ State of Michigan &lt;br&gt;
+&lt;em&gt;05/2023 - Present&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Analyze, develop, test, configure, implement, and maintain a variety of hardware and application platforms.&lt;/li&gt;
+&lt;li&gt;Works with other teams to deploy servers based on their needs.&lt;/li&gt;
+&lt;li&gt;Provide support for a variety of third party software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Datacenter Operations Tech II&lt;/strong&gt; ~ Liquid Web &lt;br&gt;
+&lt;em&gt;09/2021 - 05/2023&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

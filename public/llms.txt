@@ -1,0 +1,8 @@
+# Ramblings of Jersh
+- [](http://localhost:1313/about-me/)
+- [](http://localhost:1313/resume/)
+
+## Blogs
+- [Crafting My Art 🖼️](http://localhost:1313/blog/2024-04-19-crafting-my-art/)
+- [Building My Digital Playground 🛝](http://localhost:1313/blog/2024-04-17-building-my-digital-playground/)
+- [How I Safeguard My Digital Life 🕵️‍♀️](http://localhost:1313/blog/2024-04-12-how-i-safeguard-my-digital-life/)
