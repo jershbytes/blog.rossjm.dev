@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Privacy on Ramblings of Jersh</title>
-    <link>https://jershbytes.codeberg.page/tags/privacy/</link>
+    <link>https://blog.rossjm.dev/tags/privacy/</link>
     <description>Recent content in Privacy on Ramblings of Jersh</description>
     <image>
       <title>Ramblings of Jersh</title>
-      <url>https://jershbytes.codeberg.page/images/papermod-cover.png</url>
-      <link>https://jershbytes.codeberg.page/images/papermod-cover.png</link>
+      <url>https://blog.rossjm.dev/images/papermod-cover.png</url>
+      <link>https://blog.rossjm.dev/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Mon, 23 Feb 2026 15:10:45 -0500</lastBuildDate>
-    <atom:link href="https://jershbytes.codeberg.page/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.rossjm.dev/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I Safeguard My Digital Life 🕵️‍♀️</title>
-      <link>https://jershbytes.codeberg.page/blog/2024-04-12-how-i-safeguard-my-digital-life/</link>
+      <link>https://blog.rossjm.dev/blog/2024-04-12-how-i-safeguard-my-digital-life/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://jershbytes.codeberg.page/blog/2024-04-12-how-i-safeguard-my-digital-life/</guid>
+      <guid>https://blog.rossjm.dev/blog/2024-04-12-how-i-safeguard-my-digital-life/</guid>
       <description>Exploring My Favorite Privacy Apps.</description>
     </item>
   </channel>
