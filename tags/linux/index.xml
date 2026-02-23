@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Ramblings of Jersh</title>
+    <link>https://jershbytes.codeberg.page/tags/linux/</link>
+    <description>Recent content in Linux on Ramblings of Jersh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jershbytes.codeberg.page/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crafting My Art 🖼️</title>
+      <link>https://jershbytes.codeberg.page/blog/2024-04-19-crafting-my-art/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/blog/2024-04-19-crafting-my-art/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Welcome Everyone&lt;/strong&gt;, Today I decided to write another blog post after having a conversation with a friend. I asked him what should the topic be today and whether it should be a blog or more of a tutorial. He suggested a tutorial so I decided why not write on how I set up my Dev Environment. So read along while I explain how I set this up and why I chose said apps.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Ramblings of Jersh</title>
+    <link>https://jershbytes.codeberg.page/tags/hardware/</link>
+    <description>Recent content in Hardware on Ramblings of Jersh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jershbytes.codeberg.page/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Crafting My Art 🖼️</title>
+      <link>https://jershbytes.codeberg.page/blog/2024-04-19-crafting-my-art/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/blog/2024-04-19-crafting-my-art/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Welcome Everyone&lt;/strong&gt;, Today I decided to write another blog post after having a conversation with a friend. I asked him what should the topic be today and whether it should be a blog or more of a tutorial. He suggested a tutorial so I decided why not write on how I set up my Dev Environment. So read along while I explain how I set this up and why I chose said apps.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building My Digital Playground 🛝</title>
+      <link>https://jershbytes.codeberg.page/blog/2024-04-17-building-my-digital-playground/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/blog/2024-04-17-building-my-digital-playground/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to Post Number 2. To start, around 2015, I got the itch to do a little more than just build computers and repair them. Don&amp;rsquo;t get me wrong, I still do that, and it is still very much a thing I tend to enjoy, but finding the right people to build for or someone with the budget can be hard at times. I started to learn &lt;a href=&#34;https://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; around this time and was very fascinated with how it worked. It was a little hard at first since the person who showed me. It showed me exclusively how to use it via CLI and not a GUI. After getting the hang of how Linux worked, I bought a server from that same friend, which started the HomeLab journey and the transition to the first part of the lab.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ramblings of Jersh</title>
+    <link>https://jershbytes.codeberg.page/tags/</link>
+    <description>Recent content in Tags on Ramblings of Jersh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)</copyright>
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jershbytes.codeberg.page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding</title>
+      <link>https://jershbytes.codeberg.page/tags/coding/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hardware</title>
+      <link>https://jershbytes.codeberg.page/tags/hardware/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/tags/hardware/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux</title>
+      <link>https://jershbytes.codeberg.page/tags/linux/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scripting</title>
+      <link>https://jershbytes.codeberg.page/tags/scripting/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/tags/scripting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>https://jershbytes.codeberg.page/tags/windows/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/tags/windows/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homelab</title>
+      <link>https://jershbytes.codeberg.page/tags/homelab/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/tags/homelab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Software</title>
+      <link>https://jershbytes.codeberg.page/tags/software/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtualization</title>
+      <link>https://jershbytes.codeberg.page/tags/virtualization/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/tags/virtualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://jershbytes.codeberg.page/tags/privacy/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jershbytes.codeberg.page/tags/privacy/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
