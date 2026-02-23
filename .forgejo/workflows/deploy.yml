@@ -13,31 +13,42 @@ jobs:
       image: hugomods/hugo:exts
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: https://code.forgejo.org/actions/checkout@v4
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Verify Hugo version
+        run: hugo version
 
       - name: Build site
-        run: hugo --minify
+        env:
+          HUGO_ENV: production
+        run: |
+          hugo \
+            --minify \
+            --gc \
+            --enableGitInfo \
+            --baseURL "https://jershbytes.codeberg.page/"
 
       - name: Deploy to pages branch
         run: |
+          set -e
+
           git config user.name "forgejo-actions"
           git config user.email "actions@codeberg.org"
 
-          # Create a worktree for pages branch
           git fetch origin
           git worktree add -B pages pages-worktree origin/pages || \
           git worktree add -b pages pages-worktree
 
-          # Clear old files
           rm -rf pages-worktree/*
 
-          # Copy new build output
           cp -r public/* pages-worktree/
           touch pages-worktree/.nojekyll
 
-          # Commit and push
           cd pages-worktree
           git add .
-          git commit -m "Deploy site" || echo "No changes to commit"
+          git commit -m "Deploy site" || exit 0
           git push origin pages --force
