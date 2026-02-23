@@ -3,9 +3,10 @@ default:
   @just --List
 
 # Initialize papermod theme
-init-them:
+init-theme:
   git submodule update --init --recursive
 
-# Serve hugo site
+# Start the embedded web server
 serve:
+  hugo serve
   
