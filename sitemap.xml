@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.rossjm.dev/</loc>
+    <lastmod>2026-02-23T15:10:45-05:00</lastmod>
+  </url><url>
     <loc>https://blog.rossjm.dev/blog/</loc>
     <lastmod>2026-02-23T15:10:45-05:00</lastmod>
   </url><url>
@@ -9,9 +12,6 @@
     <lastmod>2026-02-23T15:10:45-05:00</lastmod>
   </url><url>
     <loc>https://blog.rossjm.dev/blog/2024-04-19-crafting-my-art/</loc>
-    <lastmod>2026-02-23T15:10:45-05:00</lastmod>
-  </url><url>
-    <loc>https://blog.rossjm.dev/</loc>
     <lastmod>2026-02-23T15:10:45-05:00</lastmod>
   </url><url>
     <loc>https://blog.rossjm.dev/tags/hardware/</loc>
