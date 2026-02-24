@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://blog.rossjm.dev"
-title: Ramblings of Jersh
+title: ~/jersh
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 theme: [PaperMod]
 
@@ -97,9 +97,9 @@ params:
     - name: email
       title: Send me and email
       url: "mailto:contact@rossjm.dev"
-    # - name: X
-    #   title: Share PaperMod on X/Twitter
-    #   url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
+    - name: steam
+      title: Steam Account
+      url: "https://steamcommunity.com/id/jershbytes/"
     # - name: KoFi
     #   title: Buy me a Ko-Fi :)
     #   url: "https://ko-fi.com/adityatelange"
