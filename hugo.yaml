@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://blog.rossjm.dev"
 title: "~/jersh"
-copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
+# copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 theme: [PaperMod]
 
 enableInlineShortcodes: true
@@ -32,11 +32,11 @@ languages:
       series: series
     menu:
       main:
-        - name: Blog
-          url: /blog
+        - name: About Me
+          url: about-me
           weight: 5
-        - name: Tags
-          url: tags/
+        - name: Resume
+          url: resume
           weight: 10
         - name: Links
           url: https://links.rossjm.net/
@@ -58,7 +58,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: Theme PaperMod
+  author: "Joshua Ross"
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -85,10 +85,10 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: About Me
-        url: about-me
-      - name: Resume
-        url: resume
+      - name: Posts
+        url: posts/
+      - name: Tags
+        url: tags/
 
   socialIcons:
     - name: github

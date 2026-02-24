@@ -1,7 +1,6 @@
 ---
 title: "How I Safeguard My Digital Life 🕵️‍♀️"
 date: 2024-04-12
-author: Joshua Ross
 description: "Exploring My Favorite Privacy Apps."
 tags: [privacy,software]
 ---

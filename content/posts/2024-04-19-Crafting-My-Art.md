@@ -1,6 +1,5 @@
 ---
 title: "Crafting My Art 🖼️"
-author: "Joshua Ross"
 date: "2024-04-19"
 description: "A Guide To My Dev Environment."
 tags: [coding, scripting, windows, Linux, hardware]

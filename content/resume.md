@@ -1,3 +1,8 @@
+---
+title: "Resume"
+showToc: false
+---
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <!-- Header -->
@@ -58,5 +63,5 @@ Lansing, MI <br>
 
 | Site Name       | Description                                                   | URL                              |
 |-----------------|---------------------------------------------------------------|----------------------------------|
-| Homelab Docs    | MkDocs Site hosted on GitHub. With tutorials on how to set up different technologies. | [Link](https://docs.rossjm.dev/) |
+| Tutorials       | Documentation and Guides, I have written about homelabbing and other things. Hosted using Zensical on Github Pages | [Link](https://wiki.rossjm.dev/) |
 
