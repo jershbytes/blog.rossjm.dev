@@ -11,21 +11,20 @@
     </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
-    <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Mon, 23 Feb 2026 15:10:45 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 22:10:55 -0500</lastBuildDate>
     <atom:link href="https://blog.rossjm.dev/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building My Digital Playground 🛝</title>
-      <link>https://blog.rossjm.dev/blog/2024-04-17-building-my-digital-playground/</link>
+      <link>https://blog.rossjm.dev/posts/2024-04-17-building-my-digital-playground/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.rossjm.dev/blog/2024-04-17-building-my-digital-playground/</guid>
+      <guid>https://blog.rossjm.dev/posts/2024-04-17-building-my-digital-playground/</guid>
       <description>Exploring the World of Homelabs!</description>
     </item>
     <item>
       <title>How I Safeguard My Digital Life 🕵️‍♀️</title>
-      <link>https://blog.rossjm.dev/blog/2024-04-12-how-i-safeguard-my-digital-life/</link>
+      <link>https://blog.rossjm.dev/posts/2024-04-12-how-i-safeguard-my-digital-life/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.rossjm.dev/blog/2024-04-12-how-i-safeguard-my-digital-life/</guid>
+      <guid>https://blog.rossjm.dev/posts/2024-04-12-how-i-safeguard-my-digital-life/</guid>
       <description>Exploring My Favorite Privacy Apps.</description>
     </item>
   </channel>

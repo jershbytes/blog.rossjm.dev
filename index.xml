@@ -11,39 +11,38 @@
     </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>en</language>
-    <copyright>PaperMod Contributors</copyright>
-    <lastBuildDate>Mon, 23 Feb 2026 15:10:45 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 22:10:55 -0500</lastBuildDate>
     <atom:link href="https://blog.rossjm.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crafting My Art 🖼️</title>
-      <link>https://blog.rossjm.dev/blog/2024-04-19-crafting-my-art/</link>
+      <link>https://blog.rossjm.dev/posts/2024-04-19-crafting-my-art/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.rossjm.dev/blog/2024-04-19-crafting-my-art/</guid>
+      <guid>https://blog.rossjm.dev/posts/2024-04-19-crafting-my-art/</guid>
       <description>A Guide To My Dev Environment.</description>
     </item>
     <item>
       <title>Building My Digital Playground 🛝</title>
-      <link>https://blog.rossjm.dev/blog/2024-04-17-building-my-digital-playground/</link>
+      <link>https://blog.rossjm.dev/posts/2024-04-17-building-my-digital-playground/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.rossjm.dev/blog/2024-04-17-building-my-digital-playground/</guid>
+      <guid>https://blog.rossjm.dev/posts/2024-04-17-building-my-digital-playground/</guid>
       <description>Exploring the World of Homelabs!</description>
     </item>
     <item>
       <title>How I Safeguard My Digital Life 🕵️‍♀️</title>
-      <link>https://blog.rossjm.dev/blog/2024-04-12-how-i-safeguard-my-digital-life/</link>
+      <link>https://blog.rossjm.dev/posts/2024-04-12-how-i-safeguard-my-digital-life/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.rossjm.dev/blog/2024-04-12-how-i-safeguard-my-digital-life/</guid>
+      <guid>https://blog.rossjm.dev/posts/2024-04-12-how-i-safeguard-my-digital-life/</guid>
       <description>Exploring My Favorite Privacy Apps.</description>
     </item>
     <item>
-      <title></title>
+      <title>About Me</title>
       <link>https://blog.rossjm.dev/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.rossjm.dev/about-me/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a self-taught automation enthusiast passionate about homelab infrastructure, configuration management, and infrastructure-as-code. I work at the intersection of technology and public service, constantly automating and optimizing workflows to make complex systems simple.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Resume</title>
       <link>https://blog.rossjm.dev/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://blog.rossjm.dev/resume/</guid>

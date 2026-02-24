@@ -1,8 +1,8 @@
 # ~/jersh
-- [](https://blog.rossjm.dev/about-me/)
-- [](https://blog.rossjm.dev/resume/)
+- [About Me](https://blog.rossjm.dev/about-me/)
+- [Resume](https://blog.rossjm.dev/resume/)
 
-## Blogs
-- [Crafting My Art 🖼️](https://blog.rossjm.dev/blog/2024-04-19-crafting-my-art/)
-- [Building My Digital Playground 🛝](https://blog.rossjm.dev/blog/2024-04-17-building-my-digital-playground/)
-- [How I Safeguard My Digital Life 🕵️‍♀️](https://blog.rossjm.dev/blog/2024-04-12-how-i-safeguard-my-digital-life/)
+## Posts
+- [Crafting My Art 🖼️](https://blog.rossjm.dev/posts/2024-04-19-crafting-my-art/)
+- [Building My Digital Playground 🛝](https://blog.rossjm.dev/posts/2024-04-17-building-my-digital-playground/)
+- [How I Safeguard My Digital Life 🕵️‍♀️](https://blog.rossjm.dev/posts/2024-04-12-how-i-safeguard-my-digital-life/)
