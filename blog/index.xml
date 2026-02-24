@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Ramblings of Jersh</title>
+    <title>Blogs on ~/jersh</title>
     <link>https://blog.rossjm.dev/blog/</link>
-    <description>Recent content in Blogs on Ramblings of Jersh</description>
+    <description>Recent content in Blogs on ~/jersh</description>
     <image>
-      <title>Ramblings of Jersh</title>
+      <title>~/jersh</title>
       <url>https://blog.rossjm.dev/images/papermod-cover.png</url>
       <link>https://blog.rossjm.dev/images/papermod-cover.png</link>
     </image>
