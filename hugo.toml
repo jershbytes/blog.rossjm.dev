@@ -13,6 +13,18 @@ enableEmoji = true
 mainsections = ["posts"]
 defaultContentLanguage = "en"
 
+#  Favicon configuration (optional)
+#   Keep `params.favicon` above for simple setups; use this block if you want full control.
+  [params.favicons]
+    ico = "/favicon.ico"
+    png = "/favicon-96x96.png"
+    png16 = "/favicon-16x16.png"
+    png32 = "/favicon-32x32.png"
+    apple180 = "/apple-touch-icon.png"
+    android192 = "/web-app-manifest-192x192.png"
+    android512 = "/android-chrome-512x512.png"
+    manifest = "/site.webmanifest"
+
 [pagination]
   disableAliases = false
   pageSize = 5
@@ -27,19 +39,29 @@ defaultContentLanguage = "en"
   series = "series"
 
 [[menus.main]]
-  name = "About Me"
-  pageRef = "/about-me"
-  weight = 5
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 15
+
+[[menus.main]]
+  name = "Posts"
+  pageRef = "/posts"
+  weight = 20
 
 [[menus.main]]
   name = "Resume"
   pageRef = "/resume"
-  weight = 10
+  weight = 25
 
 [[menus.main]]
   name = "Links"
   url = "https://links.rossjm.net/"
-  weight = 15
+  weight = 30
 
 [outputFormats.llms]
   mediaType = "text/plain"
@@ -54,10 +76,9 @@ defaultContentLanguage = "en"
   disableXML = true
 
 [params]
-  description = "Personal website and blog of Joshua Ross."
-  author = "Joshua Ross"
+  description = "Personal website and blog of Jersh."
+  author = "Jersh"
   heroTitleLine1 = "Hi, I'm Jersh"
-  footerText = "Joshua Ross"
   relatedPostsCount = 3
 
   [params.social]
@@ -75,7 +96,7 @@ defaultContentLanguage = "en"
     lightTheme = "catppuccin-frappe"
 
   [params.copyright]
-    owner = "Joshua Ross"
+    owner = "JershBytes"
 
   [params.admonitions]
     alertStyle = "favicon"
