@@ -1,10 +1,10 @@
-+++
-title = "Windows? I hardly knew her 👋"
-date = "2026-08-02"
-description = "My new life in linux, and why I left windows."
+---
+title: "Windows? I hardly knew her 👋"
+date: "2026-08-02"
+description: "My new life in linux, and why I left windows."
 tags: [Windows, Linux, FOSS]
-draft = true
-+++
+draft: true
+---
 
 # Introduction 
 
