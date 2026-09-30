@@ -1,8 +1,8 @@
 +++
-title: "Crafting My Art 🖼️"
-date: "2024-04-19"
-description: "A Guide To My Dev Environment."
-tags: [coding, scripting, windows, Linux, hardware]
+title = "Crafting My Art 🖼️"
+date = "2024-04-19"
+description = "A Guide To My Dev Environment."
+tags = [coding, scripting, windows, Linux, hardware]
 +++
 
 # Introduction 
