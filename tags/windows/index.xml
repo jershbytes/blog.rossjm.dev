@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Windows on ~/jersh</title>
+    <title>Windows on /home/jersh</title>
     <link>https://blog.rossjm.dev/tags/windows/</link>
-    <description>Recent content in Windows on ~/jersh</description>
-    <image>
-      <title>~/jersh</title>
-      <url>https://blog.rossjm.dev/images/papermod-cover.png</url>
-      <link>https://blog.rossjm.dev/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.154.5</generator>
+    <description>Recent content in Windows on /home/jersh</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 22:10:55 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 23:36:09 -0400</lastBuildDate>
     <atom:link href="https://blog.rossjm.dev/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crafting My Art 🖼️</title>
-      <link>https://blog.rossjm.dev/posts/2024-04-19-crafting-my-art/</link>
+      <link>https://blog.rossjm.dev/posts/crafting-my-art/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.rossjm.dev/posts/2024-04-19-crafting-my-art/</guid>
-      <description>A Guide To My Dev Environment.</description>
+      <guid>https://blog.rossjm.dev/posts/crafting-my-art/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Welcome Everyone&lt;/strong&gt;, Today I decided to write another blog post after having a conversation with a friend. I asked him what should the topic be today and whether it should be a blog or more of a tutorial. He suggested a tutorial so I decided why not write on how I set up my Dev Environment. So read along while I explain how I set this up and why I chose said apps.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -3,58 +3,193 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.rossjm.dev/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/coding/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
-    <loc>https://blog.rossjm.dev/posts/2024-04-19-crafting-my-art/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/coding/"/>
+  </url>
+  <url>
+    <loc>https://blog.rossjm.dev/posts/crafting-my-art/</loc>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/posts/crafting-my-art/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/hardware/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/hardware/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/linux/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/linux/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/posts/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/posts/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/scripting/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/scripting/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/windows/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
-    <loc>https://blog.rossjm.dev/posts/2024-04-17-building-my-digital-playground/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/windows/"/>
+  </url>
+  <url>
+    <loc>https://blog.rossjm.dev/posts/building-my-digital-playground/</loc>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/posts/building-my-digital-playground/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/homelab/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/homelab/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/software/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/software/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/virtualization/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
-    <loc>https://blog.rossjm.dev/posts/2024-04-12-how-i-safeguard-my-digital-life/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/virtualization/"/>
+  </url>
+  <url>
+    <loc>https://blog.rossjm.dev/posts/how-i-safeguard-my-digital-life/</loc>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/posts/how-i-safeguard-my-digital-life/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/tags/privacy/</loc>
-    <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <lastmod>2026-09-29T23:36:09-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/tags/privacy/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/about-me/</loc>
     <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/about-me/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/categories/</loc>
-  </url><url>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/categories/"/>
+  </url>
+  <url>
     <loc>https://blog.rossjm.dev/resume/</loc>
     <lastmod>2026-02-23T22:10:55-05:00</lastmod>
-  </url><url>
-    <loc>https://blog.rossjm.dev/series/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/resume/"/>
   </url>
+  <url>
+    <loc>https://blog.rossjm.dev/series/</loc>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en"
+               href="https://blog.rossjm.dev/series/"/>
+  </url>
+  
 </urlset>

@@ -1,24 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homelab on ~/jersh</title>
+    <title>Homelab on /home/jersh</title>
     <link>https://blog.rossjm.dev/tags/homelab/</link>
-    <description>Recent content in Homelab on ~/jersh</description>
-    <image>
-      <title>~/jersh</title>
-      <url>https://blog.rossjm.dev/images/papermod-cover.png</url>
-      <link>https://blog.rossjm.dev/images/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- 0.154.5</generator>
+    <description>Recent content in Homelab on /home/jersh</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Feb 2026 22:10:55 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 23:36:09 -0400</lastBuildDate>
     <atom:link href="https://blog.rossjm.dev/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building My Digital Playground 🛝</title>
-      <link>https://blog.rossjm.dev/posts/2024-04-17-building-my-digital-playground/</link>
+      <link>https://blog.rossjm.dev/posts/building-my-digital-playground/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://blog.rossjm.dev/posts/2024-04-17-building-my-digital-playground/</guid>
-      <description>Exploring the World of Homelabs!</description>
+      <guid>https://blog.rossjm.dev/posts/building-my-digital-playground/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to Post Number 2. To start, around 2015, I got the itch to do a little more than just build computers and repair them. Don&amp;rsquo;t get me wrong, I still do that, and it is still very much a thing I tend to enjoy, but finding the right people to build for or someone with the budget can be hard at times. I started to learn &lt;a href=&#34;https://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; around this time and was very fascinated with how it worked. It was a little hard at first since the person who showed me. It showed me exclusively how to use it via CLI and not a GUI. After getting the hang of how Linux worked, I bought a server from that same friend, which started the HomeLab journey and the transition to the first part of the lab.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
