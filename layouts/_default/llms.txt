@@ -1,0 +1,34 @@
+{{- define "llms_print_section" -}}
+{{- $section := .section -}}
+{{- $depth := .depth -}}
+{{- if or (gt (len $section.RegularPages) 0) (gt (len $section.Sections) 0) -}}
+{{- $hashes := strings.Repeat (add $depth 1) "#" }}
+
+{{ printf "%s %s" $hashes $section.Title }}
+
+{{- range $page := $section.RegularPages }}
+  {{- if and (not $page.Params.searchHidden) (ne $page.Layout "archives") (ne $page.Layout "search") }}
+- [{{ $page.Title }}]({{ $page.Permalink }})
+  {{- end -}}
+{{- end -}}
+
+{{- range $subsection := $section.Sections -}}
+{{- template "llms_print_section" (dict "section" $subsection "depth" (add $depth 1)) -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+# {{ site.Title }}
+
+{{- $orphans := where site.RegularPages "Section" "" -}}
+{{- if gt (len $orphans) 0 }}
+{{- range $page := $orphans -}}
+  {{- if and (not $page.Params.searchHidden) (ne $page.Layout "archives") (ne $page.Layout "search") (not $page.IsHome) }}
+- [{{ $page.Title }}]({{ $page.Permalink }})
+  {{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{- range site.Sections -}}
+{{- template "llms_print_section" (dict "section" . "depth" 1) -}}
+{{- end }}

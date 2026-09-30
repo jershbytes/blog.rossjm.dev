@@ -1,0 +1,106 @@
+# If your site is in 'https', make sure the base URL is also https so sitemap
+# URLs use the correct scheme.
+baseURL = "https://blog.rossjm.dev"
+title = "/home/jersh"
+theme = "mana"
+
+enableInlineShortcodes = true
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+mainsections = ["posts"]
+defaultContentLanguage = "en"
+
+[pagination]
+  disableAliases = false
+  pageSize = 5
+
+[languages.en]
+  label = "English"
+  weight = 1
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[[menus.main]]
+  name = "About Me"
+  pageRef = "/about-me"
+  weight = 5
+
+[[menus.main]]
+  name = "Resume"
+  pageRef = "/resume"
+  weight = 10
+
+[[menus.main]]
+  name = "Links"
+  url = "https://links.rossjm.net/"
+  weight = 15
+
+[outputFormats.llms]
+  mediaType = "text/plain"
+  baseName = "llms"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON", "llms"]
+
+[minify]
+  disableXML = true
+
+[params]
+  description = "Personal website and blog of Joshua Ross."
+  author = "Joshua Ross"
+  heroTitleLine1 = "Hi, I'm Jersh"
+  footerText = "Joshua Ross"
+  relatedPostsCount = 3
+
+  [params.social]
+    github = "https://github.com/jershbytes"
+    email = "contact@rossjm.dev"
+
+  [params.avatar.home]
+    assetPath = "img/author.jpg"
+
+  [params.avatar.about]
+    assetPath = "img/author.jpg"
+
+  [params.codeHighlight]
+    darkTheme = "catppuccin-macchiato"
+    lightTheme = "catppuccin-frappe"
+
+  [params.copyright]
+    owner = "Joshua Ross"
+
+  [params.admonitions]
+    alertStyle = "favicon"
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 6
+    ordered = false
+
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.parser.attribute]
+      block = true
+      title = true
+
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    noClasses = false
+    style = "catppuccin-macchiato"
+
+[services.instagram]
+  disableInlineCSS = true
+
+[services.x]
+  disableInlineCSS = true
